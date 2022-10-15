@@ -13,7 +13,7 @@ return Massiv;
 }
 void VivodMassiva (string[] Massiv,int RazmerMassiva)
 {
-for (int i = 0; i < RazmerMassiva ; i++ )
+for (int i = 0; ((i < RazmerMassiva) && (Massiv[i] != " ")); i++ )
     {
         Console.Write("{0}, ",Massiv[i]);
     }
@@ -21,5 +21,19 @@ for (int i = 0; i < RazmerMassiva ; i++ )
 Console.WriteLine("Введите количество элементов в массиве");
 int RazmerMassiva = Convert.ToInt32(Console.ReadLine());
 string[] IshodniiMassiv = new string [RazmerMassiva];
+string[] ItogoviiMassiv = new string [RazmerMassiva];
 IshodniiMassiv = VvodMassiva(RazmerMassiva);
+int j = 0;
+for (int i =0; i<RazmerMassiva; i++)
+{
+    if (IshodniiMassiv[i].Length < 4)
+    {
+        ItogoviiMassiv[j] = IshodniiMassiv[i];
+        j++;
+    }
+}
+Console.WriteLine("Исходный массив:");
 VivodMassiva(IshodniiMassiv,RazmerMassiva);
+Console.WriteLine();
+Console.WriteLine("Итоговый массив");
+VivodMassiva(ItogoviiMassiv,RazmerMassiva);
