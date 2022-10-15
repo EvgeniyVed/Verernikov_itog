@@ -13,7 +13,7 @@ return Massiv;
 }
 void VivodMassiva (string[] Massiv,int RazmerMassiva)
 {
-for (int i = 0; ((i < RazmerMassiva) && (Massiv[i] != " ")); i++ )
+for (int i = 0; i < RazmerMassiva; i++ )
     {
         Console.Write("{0}, ",Massiv[i]);
     }
