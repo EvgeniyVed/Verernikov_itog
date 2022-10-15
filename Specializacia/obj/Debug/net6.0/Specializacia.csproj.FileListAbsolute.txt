@@ -1,0 +1,15 @@
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\Specializacia.csproj.AssemblyReference.cache
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\Specializacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\Specializacia.AssemblyInfoInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\Specializacia.AssemblyInfo.cs
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\Specializacia.csproj.CoreCompileInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\bin\Debug\net6.0\Specializacia.exe
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\bin\Debug\net6.0\Specializacia.deps.json
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\bin\Debug\net6.0\Specializacia.runtimeconfig.json
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\bin\Debug\net6.0\Specializacia.dll
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\bin\Debug\net6.0\Specializacia.pdb
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\Specializacia.dll
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\refint\Specializacia.dll
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\Specializacia.pdb
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\Specializacia.genruntimeconfig.cache
+C:\Users\Юджин\Desktop\Все по C#\Itog\Specializacia\obj\Debug\net6.0\ref\Specializacia.dll
